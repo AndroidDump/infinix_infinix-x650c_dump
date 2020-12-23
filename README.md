@@ -1,0 +1,13 @@
+# full_x650c_h626-user 9 PPR1.180610.011 38028 release-keys
+- manufacturer: infinix mobility limited
+- platform: mt6765
+- codename: Infinix-X650C
+- flavor: full_x650c_h626-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: DE-190807V174
+- tags: release-keys
+- fingerprint: Infinix/H626/Infinix-X650C:9/PPR1.180610.011/DE-190807V174:user/release-keys
+- brand: Infinix
+- branch: full_x650c_h626-user-9-PPR1.180610.011-38028-release-keys
+- repo: infinix_infinix-x650c_dump
